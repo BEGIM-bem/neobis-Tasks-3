@@ -1,0 +1,115 @@
+.name-webSite{
+    width: 135.5px;
+height: 28.39px;
+margin-left:43px;
+margin-top: 50px;
+
+
+
+}
+.name-webSite__elips{
+    width: 16.03px;
+    height: 16.03px;
+    background: #FFC145;
+    border-radius: 50%;
+    position: relative;
+    margin-top: -35px;
+    margin-left: 27px;
+    
+}
+
+
+.name-webSite__dollar{
+    color: #404040;
+    display: flex;
+    padding-top: 3.5px;
+    padding-left: 3.5px;
+
+} 
+.name-webSite-texst{
+    
+color: #0F4264;
+font-size: 16.7475px;
+font-family: Quicksand;
+margin-top: -10px;
+margin-left: 50px;
+}
+.menu__images-goal{
+    margin-left: -5px;
+    
+
+}
+
+.menu{
+  
+    margin-top: 80px;
+  
+    width: 210px;
+   
+}
+
+.menu__texst{
+    color: #C7C7C7;
+    font-size: 14px;
+    padding-left: 50px;
+    margin-top: -19px;
+}
+.menu__item{
+    padding-top: 11px;
+    
+    margin-left: 40px;
+}
+.menu__item_versions{
+    width: 165px;
+height: 39px;
+background: #F0F7FF;
+border-radius: 4px;
+
+}
+.menu__texst-versions{
+color: #197BBD;
+}
+.menu__images-icon{
+    padding-left: 10px;
+}
+
+.ending{
+    margin-top: 283px;
+    margin-left: 100px;
+   
+    width: 100px;
+   
+}
+
+.ending__item{
+    display: flex;
+    text-align: center;
+
+    font-size: 8.7511px;
+    line-height: 11px;
+
+color: #404040;
+
+}
+
+.ending__item-btn{
+    width: 163.21px;
+height: 41.03px;
+background: #FFC145;
+border-radius: 13.617px;
+border: 0px;
+margin-top: 15px;
+margin-left: 50px;
+margin-bottom: 32px;
+
+}
+
+.vertical-line{
+    width: 2px;
+    height: 832px;
+    margin-top: -831px;
+    margin-left: 246px;
+    background: #F8F8F8;   
+
+}
+

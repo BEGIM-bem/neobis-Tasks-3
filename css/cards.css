@@ -1,0 +1,241 @@
+.cards{
+    width: 596.66px;
+height: 363.12px;
+
+margin-left: 290px;
+margin-top: 43px;
+
+background: linear-gradient(180deg, #FFFFFF 0%, #FFFFFF 100%);
+
+box-shadow: 0px 16px 24px rgba(0, 0, 0, 0.06), 0px 2px 6px rgba(0, 0, 0, 0.04), 0px 0px 1px rgba(0, 0, 0, 0.04);
+border-radius: 28px;
+}
+.cards__title{
+    color: #404040;
+    font-size: 20.1118px;
+    padding-top: 14px;
+    padding-left: 25px;
+}
+
+.box{
+    width: 320.43px;
+height: 206.17px;
+background: linear-gradient(180deg, #197BBD 0%, #3391D0 100%);
+border-radius: 26px;
+margin-left: 37px;
+margin-top: 13px;
+
+}
+.box__item{
+    color: #FFFFFF;
+    font-size: 16.7475px;
+    padding-top: 20px;
+    padding-left: 21px;
+}
+.box__paragraph{
+    color: rgba(255, 255, 255, 0.39);
+    font-size: 8.11292px;
+    padding-left: 21px;
+}
+
+.box-number{
+    color: #FFFFFF;
+    font-size: 21.4918px;
+    display: flex;
+    padding-top: 46px;
+}
+.box-number__item{
+    margin-left: 21px;
+}
+
+.box-footer1{
+    color: #FFFFFF;
+    width: 60px;
+    
+    margin-top: 32px;
+    margin-left: 21px;
+}
+.box-footer__item1{
+    font-size: 7.17776px;
+
+}
+.box-footer__item2{
+    font-size: 12.6167px;
+    padding-top: 6px;
+
+}
+.box-footer2{
+    width: 60px;
+    
+    margin-top: -29px;
+    margin-left: 135px;
+    color: #FFFFFF;
+
+}
+
+.box-footer__item3{
+    font-size: 7.17776px;
+}
+
+.box-footer__item4{
+    font-size: 12.6167px;
+    padding-top: 6px;
+
+}
+.box__img-vector{
+    margin-top: -115px;
+    margin-left: 109px;
+    
+}
+.Pay-limit{
+    height: 60px;
+    width: 320.43px;
+    
+    margin-top: 32px;
+    margin-left: 35px;
+}
+
+.Pay-limit__item1{
+    width: 320.43px;
+height: 9.47px;
+background: #F1F1F1;
+border-radius: 13.617px;
+}
+.Pay-limit__item2{
+    width: 69.25px;
+height: 9.06px;
+background: #197BBD;
+border-radius: 10.7766px;
+margin-top: -9px;
+
+}
+.Play-limit__item3{
+    color: #AEAEAE; 
+    font-size: 14px;
+    padding-top: 7px;
+    
+   
+}
+
+.Play-limit__item4{
+    color: #404040;
+    font-size: 14px;
+    padding-left: 228px;
+    margin-top: -15px;
+    
+}
+
+.cards__img-line{
+    padding-left: 391px;
+    padding-top: -950px;
+    border: 1px solid #E8E8E8;
+   
+}
+
+.cards__line{
+   
+
+    width: 0px;
+    height: 199.86px;
+    
+border: 1px solid #E8E8E8;
+    margin-left: 390px;
+    margin-top:-295px
+
+}
+
+.cards__price-item{
+    width: 140.69px;
+height: 204.45px;
+
+margin-left: 428px;
+margin-top: -200px;
+padding-left: 50px;
+
+}
+
+
+.number1{
+    color: #197BBD;
+    font-size: 18px;
+    padding-left: 18px;
+   
+    
+}
+
+.number-texst1{
+    color: #AEAEAE;
+    font-size: 14px;
+
+}
+
+.number2{
+    color: #439A86;
+    font-size: 18px;
+    padding-left: 18px;
+}
+
+.number-texst2{
+    color: #AEAEAE;
+    font-size: 14px;
+    padding-left: 49px;
+
+}
+
+.number3{
+    color: #BB4430;
+    font-size: 18px;
+    padding-left:18px;
+
+}
+.number-texst3{
+    font-size: 14px;
+
+
+color: #AEAEAE;
+padding-left: 39px;
+}
+
+.cards__number{
+    padding-bottom: 25px;
+}
+
+.cards__switch{
+
+    width: 90.69px;
+    height: 64.45px;
+  
+    margin-left: 480px;
+    margin-top: 18px;
+  
+}
+
+.cards__switch-item1{
+    width: 45.69px;
+height: 23.45px;
+background: #EBEBEB;
+border-radius: 13.617px;
+margin-left:45px;
+}
+
+.cards__switch-item2{
+    width: 23.45px;
+height: 23.45px;
+margin-top: -24px;
+background: #CDCDCD;
+border-radius: 13.617px;
+margin-left: 45px;
+}
+
+.cards__switch-item3{
+    font-size: 14px;
+    padding-left: 4px;
+    padding-top: 10px;
+color: #AEAEAE;
+}
+
+
+
+
+
+

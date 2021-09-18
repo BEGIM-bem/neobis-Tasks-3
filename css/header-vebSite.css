@@ -1,0 +1,18 @@
+.header-vebSite{
+    height: 72px;
+    width: 350px;
+    
+    margin-left: 290px;
+    margin-top: -800px;
+
+}
+
+.header-vebSite__title{
+    color: #404040;
+    font-size: 43.3726px;
+}
+.header-vebSite__item{
+    color: #AEAEAE;
+    font-size: 16.0564px;
+    margin-top: 4px;
+}
